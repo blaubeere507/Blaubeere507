@@ -30,4 +30,4 @@ All projects are **educational, legal, and focused on defensive learning**.
 ---
 
 ### 🛡️ Goal
-Trying to be a Malwarebytes Security Researcher
+Trying to be a Malwarebytes Security Researcher.
