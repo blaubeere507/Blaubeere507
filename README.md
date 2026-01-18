@@ -26,3 +26,8 @@ All projects are **educational, legal, and focused on defensive learning**.
 ---
 
 📚 Currently learning malware analysis basics and low-level system behavior.
+
+---
+
+### 🛡️ Goal
+Trying to be a Malwarebytes Security Researcher
