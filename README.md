@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Blaubeere507
 
-🛡️ Aspiring Security Researcher  
-🎯 Interested in malware analysis, Windows internals, and defensive security
 
 ---
 
@@ -22,12 +20,3 @@
 
 ### 🛡️ Ethics
 All projects are **educational, legal, and focused on defensive learning**.
-
----
-
-📚 Currently learning malware analysis basics and low-level system behavior.
-
----
-
-### 🛡️ Goal
-Trying to be a Malwarebytes Security Researcher.
