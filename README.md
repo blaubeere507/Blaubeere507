@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Blaubeere507
+## 👋 Hi, I'm AutoblockOwO 
 
 
 ---
@@ -7,15 +7,14 @@
 - Java, Python, C# (learning)
 - Windows & Linux internals
 - Security research & system analysis
-- Frontend web development
 
 ---
 
-### 🧪 Projects
-- Minecraft plugins & clients
-- TPM 2.0 registry automation (based on official Microsoft workaround)
-- Custom Arch Linux installer script
-
+### 🧪 Skills
+- Minecraft all around!
+- Kotlin
+- LLMs and webpage Design!
+  
 ---
 
 ### 🛡️ Ethics
